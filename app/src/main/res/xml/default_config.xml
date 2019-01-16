@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>show_button</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>button1_label</key>
+        <value>Click me, please!</value>
+    </entry>
+</defaultsMap>
+<!-- END xml_defaults -->
