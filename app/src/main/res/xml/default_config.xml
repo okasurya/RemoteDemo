@@ -9,5 +9,9 @@
         <key>button1_label</key>
         <value>Click me, please!</value>
     </entry>
+    <entry>
+        <key>action_button1</key>
+        <value>com.okasurya.remotedemo.CatActivity</value>
+    </entry>
 </defaultsMap>
 <!-- END xml_defaults -->
