@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RemoteDemo</string>
+    <string name="label_click_me_please">Click Me, Please!</string>
+</resources>
